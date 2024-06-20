@@ -7,6 +7,8 @@
     scroll-behavior: smooth;
 }
 
+
+
 :root{
     --bg-color:#2a2a2a;
     --second-bg-color: #202020;
@@ -242,6 +244,10 @@ header.sticky{
     margin-bottom: 4rem;
 
 }
+
+
+
+
 
 .services{
     background: var(--second-bg-color);
